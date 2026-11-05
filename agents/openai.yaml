@@ -1,0 +1,6 @@
+interface:
+  display_name: "凌梦 AI 生图"
+  short_description: "凌梦 AI MCP 生图、批次控制与本地原图保存"
+  default_prompt: "Use $lingmeng-image-mcp to generate the requested images, then save the original files locally when local file tools are available."
+policy:
+  allow_implicit_invocation: true
